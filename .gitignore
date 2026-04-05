@@ -1,7 +1,0 @@
-.DS_Store
-.vscode/
-*.dSYM/
-seam
-tester
-img*.bin
-halfwidth.bin
